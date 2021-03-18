@@ -23,7 +23,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](http://g.recordit.co/LeMeYNbrp2.gif)
 ![](http://g.recordit.co/EnTT30dFx0.gif)
 http://g.recordit.co/EnTT30dFx0.gif
 
